@@ -1,0 +1,13 @@
+# The Ignore List for W-Pad (Python3)
+#
+# Note -
+# 1. Ignore the tests/ directory and files.
+# 2. Also ignore the python cache files, and other waste files.
+#
+# Author : Rishav Das
+
+# Python cache directory
+__pycache__/
+
+# Tests directory (Here all the test items are stored including the output and the experiment files)
+tests/
